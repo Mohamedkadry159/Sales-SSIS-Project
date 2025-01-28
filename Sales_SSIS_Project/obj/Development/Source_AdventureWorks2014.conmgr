@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-IPJU9OC_SQLEXPRESS.AdventureWorks2014"
+  DTS:DTSID="{93CAD106-32A8-443E-9D7A-28CF3BF1C6E5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-IPJU9OC\SQLEXPRESS;Initial Catalog=AdventureWorks2014;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Dwh2-{93CAD106-32A8-443E-9D7A-28CF3BF1C6E5}DESKTOP-IPJU9OC\SQLEXPRESS.AdventureWorks2014;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
